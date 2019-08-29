@@ -2,8 +2,8 @@
 # Our excludes
 #
 
-/Assets/
-!/Assets/MyProject/
+/[Aa]ssets/UnityChan/*
+!/[Aa]ssets/MyProject/**/*
 
 ############################
 
